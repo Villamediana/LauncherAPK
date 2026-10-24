@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "notes": "Primeira versão: só o launcher, sem a Luna.",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "notes": "Sem backup; configurações mais enxutas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAPK/main/launcher.apk",
-  "sha256": "12b1d556ac220d3346c2aaaea4fd73aa6e0abda3ec27c03e45d53ce03be45dcf"
+  "sha256": "b3451fa65ad9ddaa81d7f784829d0490605c43f05cbeb98da253c97ec5f2dacf"
 }
