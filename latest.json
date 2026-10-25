@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "notes": "Lousa com IA: onde você desenha gestos, segure o dedo parado e abre uma página sem fim que a IA vai ajeitando. Desenhos ficam em Configurações › Desenhos.",
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "notes": "Lousa: desenho livre à mão com o traço âmbar dos gestos; circule algo para a IA fazer a mágica.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAPK/main/launcher.apk",
-  "sha256": "3231f4f10aba1231f21eceed730aaa496862ec6cd90d07ac17cf3ef324b972c7"
+  "sha256": "603f6087d0c236f1cc0ef5dcea8a4348bddebb59dc2246b6598e17f28f813272"
 }
