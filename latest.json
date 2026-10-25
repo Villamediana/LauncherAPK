@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "notes": "Sem backup; configurações mais enxutas.",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "notes": "Lousa com IA: onde você desenha gestos, segure o dedo parado e abre uma página sem fim que a IA vai ajeitando. Desenhos ficam em Configurações › Desenhos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAPK/main/launcher.apk",
-  "sha256": "b3451fa65ad9ddaa81d7f784829d0490605c43f05cbeb98da253c97ec5f2dacf"
+  "sha256": "3231f4f10aba1231f21eceed730aaa496862ec6cd90d07ac17cf3ef324b972c7"
 }
