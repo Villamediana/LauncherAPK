@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "notes": "Lousa: escreva dentro do círculo o que a IA deve fazer; transformações mais certeiras; carregar e testar o modelo nas configurações.",
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "notes": "Lousa: mapas mentais, fluxogramas e tabelas com espaço e letra legível.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAPK/main/launcher.apk",
-  "sha256": "4c45d1e6a9fbf85761fafc99e41f78da4aa7ca465e5ef2fd3dbabc6f85857235"
+  "sha256": "d68dca03fae2489c31373ed298f4dfc645bd74bd34d59082b7308c15af325f7c"
 }
