@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "notes": "Lousa: desenho livre à mão com o traço âmbar dos gestos; circule algo para a IA fazer a mágica.",
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "notes": "Lousa: escreva dentro do círculo o que a IA deve fazer; transformações mais certeiras; carregar e testar o modelo nas configurações.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAPK/main/launcher.apk",
-  "sha256": "603f6087d0c236f1cc0ef5dcea8a4348bddebb59dc2246b6598e17f28f813272"
+  "sha256": "4c45d1e6a9fbf85761fafc99e41f78da4aa7ca465e5ef2fd3dbabc6f85857235"
 }
